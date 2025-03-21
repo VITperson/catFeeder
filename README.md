@@ -10,7 +10,7 @@ Cat feeding tracker
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/ваш-username/cat-feeding-tracker.git
+   git clone https://github.com/VITperson/catFeeder.git
    ```
 
 2. Перейдите в директорию проекта:
