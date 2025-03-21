@@ -1,0 +1,22 @@
+# Зависимости
+/node_modules
+
+# Файлы сборки
+/dist
+/build
+
+# Логи
+*.log
+
+# Файлы окружения
+.env
+.env.local
+.env.*.local
+
+# Файлы IDE
+.vscode/
+.idea/
+
+# Временные файлы
+*.tmp
+*.temp 
